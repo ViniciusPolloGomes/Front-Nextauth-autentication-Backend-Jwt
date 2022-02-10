@@ -1,8 +1,20 @@
 # FrontEnD autentication JWT 
- 
-## nookies
+Essa aplicação é UM exemplo simples de autenticação de usuário usando JWT e uma aplicação backend RESTFULL.
+Backend disponivel em : https://github.com/ViniciusPolloGomes/ignite-reactjs-auth-backend
+
+Basta executar as duas simultaneamente usando os comandos no terminal: 
+
+yarn
+
+Depois digite: 
+
+yarn dev
+
+Faça isso para ambos os projetos.
+
+## Usamos a biblioteca nookies
 Biblioteca para cookies
-Comand:  yarn add cookies
+Comando de instalação:  yarn add nookies
 
 ## Configurando ambiente
 -Estratégia de autenticação
