@@ -1,0 +1,1 @@
+{"c":["pages/_app","webpack"],"r":["pages/dashboard"],"m":["./components/can.tsx","./hook/useCan.ts","./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fdashboard&absolutePagePath=C%3A%5CUsers%5CADMIN%5CDesktop%5Crocketseat%5Cnextauth%5Cautentication%5Cpages%5Cdashboard.tsx!","./pages/dashboard.tsx","./utils/validateUserPermissions.ts"]}

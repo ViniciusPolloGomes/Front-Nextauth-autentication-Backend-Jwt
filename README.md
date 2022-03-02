@@ -16,6 +16,13 @@ Faça isso para ambos os projetos.
 Biblioteca para cookies
 Comando de instalação:  yarn add nookies
 
+## JWT-DECODE
+yarn add jwt-decode
+Decode serve para decodificar um token e pegar conteúdo, lembrando que token é incriptado, e não cripitografado.
+
+## BroadCastChannel
+Bibliotéca ótima para manter a sincronia entre as abas e paginas da aplicação, ou seja, se usuário deslogar em uma aba , nas outras também sera deslogado e redirecionado para uma pagina padrão disponivel.
+
 ## Configurando ambiente
 -Estratégia de autenticação
 -Configurando API RESTful
